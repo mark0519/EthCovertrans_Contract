@@ -4,51 +4,11 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "retrieve",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "num",
-						"type": "uint256"
-					}
-				],
-				"name": "store",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"details": "Exchange and Show Public Keys for EthCovertrans",
 			"kind": "dev",
-			"methods": {
-				"retrieve()": {
-					"details": "Return value ",
-					"returns": {
-						"_0": "value of 'number'"
-					}
-				},
-				"store(uint256)": {
-					"details": "Store value in variable",
-					"params": {
-						"num": "value to store"
-					}
-				}
-			},
+			"methods": {},
 			"title": "Expubkey",
 			"version": 1
 		},
@@ -75,11 +35,11 @@
 	},
 	"sources": {
 		"Expubkey.sol": {
-			"keccak256": "0x672bdb0f9b8e0bdd650b4625547c44f66ed330ee0f0c008baba75311accf60b0",
+			"keccak256": "0x39c72a1647636c1125bd466f7622d3067767e222fca255ba6a7c02df6603b1df",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://fab95b08ed68555c7f93a9ddd29c21c755fc14a348ade4d56eb317521bfdfc78",
-				"dweb:/ipfs/QmeKH7KNVNsPaKkBFFgsNXkfCnGQRQ139aGhzQza8pJRG4"
+				"bzz-raw://b4a5f52c17e981b83c1b2686960ee7ccdc8eb0a67fa4fb74994799d22b4f5b1c",
+				"dweb:/ipfs/QmRoYWb1iAADdgVnDcM94ZKLm1bN6vqRNjoWgY3rJEUJMZ"
 			]
 		}
 	},
